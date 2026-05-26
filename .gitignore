@@ -1,0 +1,9 @@
+.cache
+.vscode
+
+build
+
+imgui.ini
+
+nbody_mmap.bin
+nbody_riscv
